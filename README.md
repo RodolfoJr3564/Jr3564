@@ -1,7 +1,3 @@
-## Olá, seja bem vindo ao meu repositório! 😁
-
-### Minha jornada como programador começou em 2019, quando tirei meu ano sabático para me dedicar aos estudos. E desde então estudo todos os dias para me tornar um programador melhor.
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jr3564&show_icons=true&theme=dark)
 
 ## Stacks:
