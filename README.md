@@ -1,5 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jr3564&show_icons=true&theme=dark)
-
 ## Stacks:
 
 ### Front
