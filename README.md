@@ -1,3 +1,8 @@
+![Snake animation](https://github.com/Jr3564/Jr3564/blob/output/github-contribution-grid-snake.svg)
+
+<br></br>
+
+---
 
 <p>
 Olá,
@@ -8,7 +13,7 @@ Adotei as boas práticas de SOLID, e sempre procuro implementar. 
 Me sinto confortável trabalhando com os paradigmas de orientação a objetos e funcional.
 </p>
 
-![Snake animation](https://github.com/Jr3564/Jr3564/blob/output/github-contribution-grid-snake.svg)
+<br></br>
 
 ## Interesses:
 
@@ -34,17 +39,19 @@ Me sinto confortável trabalhando com os paradigmas de orientação a objetos e 
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+<br></br>
 
 ---
 
-## Projeos em destaque:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr3564&repo=Pipeline_de_Dados&theme=dark)](https://github.com/Jr3564/Pipeline_de_Dados)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr3564&repo=Crawler-tech-news&theme=dark)](https://github.com/Jr3564/Crawler-tech-news)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr3564&repo=NLW6-valoriza&theme=dark)](https://github.com/Jr3564/NLW6-valoriza)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr3564&repo=API-central-de-erros-front&theme=dark)](https://github.com/Jr3564/API-central-de-erros-front)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr3564&repo=BlogsApi&theme=dark)](https://github.com/Jr3564/BlogsApi)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr3564&repo=Dump-normaliza-o-filtros-Spotify&theme=dark)](https://github.com/Jr3564/Dump-normaliza-o-filtros-Spotify)
 
+## Projeos em destaque:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr3564&repo=Pipeline_de_Dados&theme=dark&hide_border=true)](https://github.com/Jr3564/Pipeline_de_Dados)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr3564&repo=Crawler-tech-news&theme=dark&hide_border=true)](https://github.com/Jr3564/Crawler-tech-news)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr3564&repo=NLW6-valoriza&theme=dark&hide_border=true)](https://github.com/Jr3564/NLW6-valoriza)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr3564&repo=API-central-de-erros-front&theme=dark&hide_border=true)](https://github.com/Jr3564/API-central-de-erros-front)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr3564&repo=BlogsApi&theme=dark&hide_border=true)](https://github.com/Jr3564/BlogsApi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr3564&repo=Dump-normaliza-o-filtros-Spotify&theme=dark&hide_border=true)](https://github.com/Jr3564/Dump-normaliza-o-filtros-Spotify)
 
 <!--
 **Jr3564/Jr3564** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
