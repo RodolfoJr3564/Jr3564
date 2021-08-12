@@ -1,9 +1,3 @@
-![Snake animation](https://github.com/Jr3564/Jr3564/blob/output/github-contribution-grid-snake.svg)
-
-<br></br>
-
----
-
 <p>
 Olá,
 meu nome é Rodolfo.
@@ -13,7 +7,11 @@ Adotei as boas práticas de SOLID, e sempre procuro implementar. 
 Me sinto confortável trabalhando com os paradigmas de orientação a objetos e funcional.
 </p>
 
-<br></br>
+
+---
+
+![Snake animation](https://github.com/Jr3564/Jr3564/blob/output/github-contribution-grid-snake.svg)
+
 
 ## Interesses:
 
