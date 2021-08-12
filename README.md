@@ -8,6 +8,8 @@ Adotei as boas práticas de SOLID, e sempre procuro implementar. 
 Me sinto confortável trabalhando com os paradigmas de orientação a objetos e funcional.
 </p>
 
+![Snake animation](https://github.com/jr3564/jr3564/blob/output/github-contribution-grid-snake.svg)
+
 ## Interesses:
 
 <img align="right" alt="my octocat" width="300px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628789214809.png?raw=true" />
