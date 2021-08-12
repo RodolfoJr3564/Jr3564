@@ -1,4 +1,13 @@
+Olá,
+meu nome é Rodolfo.
+Sou nativamente javascripter e tenho muito interesse por novidades nesse universo.
+Tenho experiência com Back e Front end. Gosto de projetos em Python e Java também.
+Adotei as boas práticas de SOLID, e sempre procuro implementar. 
+Me sinto confortável trabalhando com os paradigmas de orientação a objetos e funcional.
+
 ## Interesses:
+
+<img align="right" alt="my octocat" width="300px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628789214809.png?raw=true" />
 
 ### Front
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,6 +30,15 @@
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
+---
+
+## Projeos em destaque:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr3564&repo=Pipeline_de_Dados&theme=dark)](https://github.com/Jr3564/Pipeline_de_Dados)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr3564&repo=Crawler-tech-news&theme=dark)](https://github.com/Jr3564/Crawler-tech-news)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr3564&repo=NLW6-valoriza&theme=dark)](https://github.com/Jr3564/NLW6-valoriza)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr3564&repo=API-central-de-erros-front&theme=dark)](https://github.com/Jr3564/API-central-de-erros-front)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr3564&repo=BlogsApi&theme=dark)](https://github.com/Jr3564/BlogsApi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr3564&repo=Dump-normaliza-o-filtros-Spotify&theme=dark)](https://github.com/Jr3564/Dump-normaliza-o-filtros-Spotify)
 
 
 <!--
