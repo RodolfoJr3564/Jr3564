@@ -44,7 +44,7 @@ Me sinto confortável trabalhando com os paradigmas de orientação a objetos e 
 
 ## Projeos em destaque:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr3564&repo=BlogsApi&theme=dark&hide_border=true)](https://github.com/Jr3564/jungle-news)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr3564&repo=jungle-news&theme=dark&hide_border=true)](https://github.com/Jr3564/jungle-news)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr3564&repo=Pipeline_de_Dados&theme=dark&hide_border=true)](https://github.com/Jr3564/Pipeline_de_Dados)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr3564&repo=Crawler-tech-news&theme=dark&hide_border=true)](https://github.com/Jr3564/Crawler-tech-news)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr3564&repo=NLW6-valoriza&theme=dark&hide_border=true)](https://github.com/Jr3564/NLW6-valoriza)
