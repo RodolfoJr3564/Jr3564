@@ -1,6 +1,6 @@
 <p>
 Olá,
-meu nome é Rodolfo..
+meu nome é Rodolfo.
 Sou nativamente javascripter e tenho muito interesse por novidades nesse universo.
 Tenho experiência com Back e Front end. Gosto de projetos em Python e Java também.
 Adotei as boas práticas de SOLID, e sempre procuro implementar. 
