@@ -1,9 +1,3 @@
-<p>
-Sou desenvolvedor backend com mais de 2 anos de experiência comprovada em carteira, sem contar milhares de horas dedicadas a projetos, cursos e estudo de documentações. Tenho facilidade em aprender novas tecnologias, especialmente quando relacionadas à programação. Topo qualquer desafio!
-</p>
-
----
-
 ![Snake animation](https://github.com/Jr3564/Jr3564/blob/output/github-contribution-grid-snake.svg)
 
 ### Main Stacks
