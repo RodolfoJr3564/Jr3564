@@ -1,56 +1,63 @@
 <p>
-Olá,
-meu nome é Rodolfo.
-Sou nativamente javascripter e tenho muito interesse por novidades nesse universo.
-Tenho experiência com Back e Front end. Gosto de projetos em Python e Java também.
-Adotei as boas práticas de SOLID, e sempre procuro implementar. 
-Me sinto confortável trabalhando com os paradigmas de orientação a objetos e funcional.
+Sou desenvolvedor backend com mais de 2 anos de experiência comprovada em carteira, sem contar milhares de horas dedicadas a projetos, cursos e estudo de documentações. Tenho facilidade em aprender novas tecnologias, especialmente quando relacionadas à programação. Topo qualquer desafio!
 </p>
 
 ---
 
 ![Snake animation](https://github.com/Jr3564/Jr3564/blob/output/github-contribution-grid-snake.svg)
 
-## Interesses:
+### Main Stacks
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<img align="right" alt="my octocat" width="300px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628789214809.png?raw=true" />
+### Frameworks/Bibliotecas
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Phoenix](https://img.shields.io/badge/Phoenix-E44D26?style=for-the-badge&logo=phoenix&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Front
 
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![image](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+### Bancos de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Back
+### AWS
+![AWS Cognito](https://img.shields.io/badge/AWS_Cognito-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS SES](https://img.shields.io/badge/AWS_SES-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 
-![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![image](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 
-### SGBDs
+### DEVOPS
+![CI/CD](https://img.shields.io/badge/CI%2FCD-007ACC?style=for-the-badge&logo=azure-devops&logoColor=white)
+![GitOps](https://img.shields.io/badge/GitOps-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitFlow](https://img.shields.io/badge/GitFlow-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+### Boas Práticas
+![KISS](https://img.shields.io/badge/KISS-FFDD57?style=for-the-badge&logo=kiss&logoColor=black)
+![DRY](https://img.shields.io/badge/DRY-007ACC?style=for-the-badge&logo=water&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID-007ACC?style=for-the-badge&logo=solid&logoColor=white)
+![YAGNI](https://img.shields.io/badge/YAGNI-007ACC?style=for-the-badge&logo=yalnix&logoColor=white)
+
+### Comunicação entre sistemas
+![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-1D629F?style=for-the-badge&logo=grpc&logoColor=white)
+
+### Arquiteturas
+![Microservices](https://img.shields.io/badge/Microservices-FF2D20?style=for-the-badge&logo=microservices&logoColor=white)
+![Monolithic](https://img.shields.io/badge/Monolithic-333333?style=for-the-badge&logo=monolithic&logoColor=white)
+![Event-Driven Architecture](https://img.shields.io/badge/Event--Driven_Architecture-005571?style=for-the-badge&logo=eventbrite&logoColor=white)
 
 <br></br>
-
----
-
-## Projeos em destaque:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr3564&repo=jungle-news&theme=dark&hide_border=true)](https://github.com/Jr3564/jungle-news)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr3564&repo=Pipeline_de_Dados&theme=dark&hide_border=true)](https://github.com/Jr3564/Pipeline_de_Dados)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr3564&repo=Crawler-tech-news&theme=dark&hide_border=true)](https://github.com/Jr3564/Crawler-tech-news)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr3564&repo=NLW6-valoriza&theme=dark&hide_border=true)](https://github.com/Jr3564/NLW6-valoriza)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr3564&repo=API-central-de-erros-front&theme=dark&hide_border=true)](https://github.com/Jr3564/API-central-de-erros-front)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jr3564&repo=Dump-normaliza-o-filtros-Spotify&theme=dark&hide_border=true)](https://github.com/Jr3564/Dump-normaliza-o-filtros-Spotify)
-
 <!--
 **Jr3564/Jr3564** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
